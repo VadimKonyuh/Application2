@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Application 2.3</string>
+    <string name="adr_name">Введите e-mail адрес </string>
+    <string name="topic_name">Тема сообщения</string>
+    <string name="you_massage">Ваше сообщение</string>
+    <string name="button_text">Send</string>
+
+</resources>
